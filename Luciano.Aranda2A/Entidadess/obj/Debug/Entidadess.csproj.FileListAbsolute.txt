@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Luciano.Aranda2A\Entidadess\bin\Debug\Entidadess.dll
+C:\Users\alumno\Desktop\Luciano.Aranda2A\Entidadess\bin\Debug\Entidadess.pdb
+C:\Users\alumno\Desktop\Luciano.Aranda2A\Entidadess\obj\Debug\Entidadess.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Luciano.Aranda2A\Entidadess\obj\Debug\Entidadess.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Luciano.Aranda2A\Entidadess\obj\Debug\Entidadess.dll
+C:\Users\alumno\Desktop\Luciano.Aranda2A\Entidadess\obj\Debug\Entidadess.pdb
